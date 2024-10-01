@@ -11,9 +11,9 @@ I'm from Brazil, 30 years old, Software Engineer and currently living in Dublin,
 
 Enthusiast of the best web & mobile development technologies.
 
-- 🛠️ I'm currently working with <img height="14" width="14" src="https://cdn.simpleicons.org/typescript/3178C6" /> **TypeScript**
-- 🌱 I'm currently learning <img height="14" width="14" src="https://cdn.simpleicons.org/rust/FFFFFF" /> **Rust** trying to build several different projects including games
-- ✨ I'm interesting in trying <img height="16" width="16" src="https://cdn.simpleicons.org/go/00ADD8" /> **Golang** in the future
+- 🛠️ I'm currently working with <a href="https://www.typescriptlang.org/"><img height="14" width="14" src="https://cdn.simpleicons.org/typescript/3178C6" /> **TypeScript**</a>
+- 🌱 I'm currently learning <a href="https://www.rust-lang.org/"><img height="14" width="14" src="https://cdn.simpleicons.org/rust/FFFFFF" /> **Rust**</a> trying to build several different projects including games
+- ✨ I'm interesting in trying <a href="https://go.dev/"><img height="16" width="16" src="https://cdn.simpleicons.org/go/00ADD8" /> **Golang**</a> in the future
 
 <br />
 
